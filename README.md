@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="700" src="https://github.com/FelixBey/Airline/blob/master/data/github_banner.jpg"><br><br>
+  <img width="650" src="https://github.com/FelixBey/Airline/blob/master/data/github_banner.jpg"><br><br>
 </div>
 
 
@@ -11,7 +11,7 @@ Zur Reproduktion der Ergebnisse wird die Verwendung von Google Drive zum Entpack
 
 ## Quick Start
 
-- Lege im gewünschten Zielordner der Google Drive ein Google Colaboratory-Notebook an (Neu --> Mehr --> Google Colaboratory)
+- Lege in der Google Drive ein Google Colaboratory-Notebook an (Neu --> Mehr --> Google Colaboratory)
 
 - Verbinde Notebook mit Google Drive:
 ```python
@@ -21,7 +21,7 @@ drive.mount('/content/drive')
 
 - Wechsle Verzeichnis zu Zielordner:
 ```python
-cd 'drive/My Drive/Zielordner'
+cd 'drive/My Drive/Airline'
 ```
 
 - Kopiere GitHub-Repository in Zielordner:
