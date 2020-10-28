@@ -24,7 +24,7 @@ drive.mount('/content/drive')
 cd 'drive/My Drive'
 ```
 
-- Kopiere GitHub-Repository in Zielordner:
+- Kopiere GitHub-Repository in Google Drive:
 ```python
 ! git clone https://github.com/FelixBey/Airline.git
 ```
