@@ -19,9 +19,9 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
-- Wechsle Verzeichnis zu Zielordner:
+- Wechsle Verzeichnis zu Google Drive:
 ```python
-cd 'drive/My Drive/Airline'
+cd 'drive/My Drive'
 ```
 
 - Kopiere GitHub-Repository in Zielordner:
@@ -29,7 +29,7 @@ cd 'drive/My Drive/Airline'
 ! git clone https://github.com/FelixBey/Airline.git
 ```
 
-Nach dem Ausführen dieser Schritte sollten die Notebooks mit Daten und trainierten Modellen im Zielordner abliegen. Die Ergebnisse der Arbeit können nun repliziert werden:
+Nach dem Ausführen dieser Schritte sollten die Notebooks mit Daten und trainierten Modellen im Zielordner 'Airline' abliegen. Die Ergebnisse der Arbeit können nun repliziert werden:
 
 - Führe zuerst das
 [EDA and Preprocessing-Notebook](https://github.com/FelixBey/Airline/blob/master/EDA%20and%20Preprocessing.ipynb)
