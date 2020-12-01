@@ -7,7 +7,7 @@
 
 Dies ist das ergänzende Repository zur Seminararbeit "Vorhersage und Interpretation der Kundenzufriedenheit einer Fluggesellschaft mittels Machine Learning" am Lehrstuhl von Prof. Dr. Frédéric Thiesse, Julius-Maximilians-Universität Würzburg.
 
-Zur Reproduktion der Ergebnisse wird die Verwendung von Google Drive zum Entpacken und Speichern der Daten sowie Google Colaboratory für die Ausführung des Codes empfohlen.
+Zur Reproduktion der Ergebnisse wird die Verwendung von Google Drive zum Entpacken und Speichern der Daten sowie Google Colaboratory für die Ausführung des Codes empfohlen. Der Datensatz wurde einer [Kaggle-Challenge](https://www.kaggle.com/sjleshrac/airlines-customer-satisfaction) entnommen.
 
 ## Quick Start
 
